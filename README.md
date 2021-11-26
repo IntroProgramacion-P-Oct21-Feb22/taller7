@@ -57,10 +57,10 @@ Promedio de estaturas: 1.87
 37
 
 ### Problema04  (use while)
-* Generar, imprimira  y obtenga el resultado de la serie:
+* Generar, imprimir  y obtenga el resultado de la serie:
 >  1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11 + 1/13 - 1/15
 
 ### Problema05  (use do-while)
-* Generar, imprimira  y obtenga el resultado de la serie:
+* Generar, imprimir  y obtenga el resultado de la serie:
 >  1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11 + 1/13 - 1/15
 
